@@ -8,5 +8,5 @@ it will have:
        - png or jpg format (if u want another format ask me in my discord i wont do it without request)
        - you can ask for whatever u want
 
-**Release: 4-8.10.2024** Depends how i feel like 
+ 
             
